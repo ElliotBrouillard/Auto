@@ -15,4 +15,6 @@ class Auto:
 
 
 camry = Auto("Toyota", "Camry", 30000, 5, "berline")
+a8 = Auto("Audi", "A8", 90000, 5, "berline")
 camry.se_deplacer()
+a8.se_deplacer()
