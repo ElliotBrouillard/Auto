@@ -10,7 +10,7 @@ class Auto:
         self.type_auto = type_auto
 
     def se_deplacer(self):
-        print("L'auto se déplace")
+        print(f"{self.modele} se déplace")
 
 
 
