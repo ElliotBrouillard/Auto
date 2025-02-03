@@ -12,3 +12,7 @@ class Auto:
     def se_deplacer(self):
         print("L'auto se déplace")
 
+
+
+camry = Auto("Toyota", "Camry", 30000, 5, "berline")
+camry.se_deplacer()
